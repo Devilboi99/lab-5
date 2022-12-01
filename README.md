@@ -25,9 +25,14 @@
 
 - Данные о работе: название работы, фио, группа, выполненные задания.
 - Цель работы.
-  научиться использовать tenerFlow  
+- задание 1
+- задание 2 
+- задание 3 
 - написать вывод
+## цель работы 
+создать симуляцию добычи руды, и изминение экономики на за счёт MLAgent и последующей вроверкой через TensorBoard
 # Задание 1.
+
 - Интеграция экономической системы в проект Unity и обучение ML-Agent и использование tensorboard для анализа данных!
 ![DQYk3ea8Z7sn7yYhWcd--n_NzMmKEWW5SLbVsvZFTSwbTUWOrUY4hu7hBtcNo8grvBe_uvXj8JnVYDhhx4WPos_a](https://user-images.githubusercontent.com/96059564/205012773-7b75758c-412c-4cb6-aac4-590eaf011c58.jpg)
 ![O1bBzVv6xsxv4Bt4COeg2sSZMI0HiJpE_Rus5VurXCWRbJTUD6Z7ezbgIAvZeYyMU0sgGedrfVQjDm4pTbRgHXJ1](https://user-images.githubusercontent.com/96059564/205012884-a3f2229c-d198-4c79-8972-fafb75271755.jpg)
