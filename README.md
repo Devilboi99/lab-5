@@ -26,8 +26,8 @@
 - Данные о работе: название работы, фио, группа, выполненные задания.
 - Цель работы.
   научиться использовать tenerFlow  
-
-# - Задание 1.
+- написать вывод
+# Задание 1.
 - Интеграция экономической системы в проект Unity и обучение ML-Agent и использование tensorboard для анализа данных!
 ![DQYk3ea8Z7sn7yYhWcd--n_NzMmKEWW5SLbVsvZFTSwbTUWOrUY4hu7hBtcNo8grvBe_uvXj8JnVYDhhx4WPos_a](https://user-images.githubusercontent.com/96059564/205012773-7b75758c-412c-4cb6-aac4-590eaf011c58.jpg)
 ![O1bBzVv6xsxv4Bt4COeg2sSZMI0HiJpE_Rus5VurXCWRbJTUD6Z7ezbgIAvZeYyMU0sgGedrfVQjDm4pTbRgHXJ1](https://user-images.githubusercontent.com/96059564/205012884-a3f2229c-d198-4c79-8972-fafb75271755.jpg)
@@ -42,12 +42,15 @@
 ![LYZSn-kBxv1cHz6sHaUVYxtkVeTYOvRDpLKo6w4FpSkDBbOyVMyTKPZTdlcLTPerGVfB1HR3zBfsDV_GFF0IUEjp](https://user-images.githubusercontent.com/96059564/205014224-6f76caa6-033b-49c4-8b08-5dbf92b46d17.jpg)
 
  обучения. 
-# - Задание 3.
-  Как видно из графиков изминение силы, сильно понизила экономик, это видно на первом графике 
-  
+# Задание 3.
+  Как видно из графиков изминение силы, сильно понизила экономику , это видно на первом графике 
+  сила в свою очерь
+  Изминение скорости обучение изменило потери в худжею сторону, то есть через месрно высокая скорость обучение ухудшело само обучениее
 
 ## Выводы
-понял, что такое парцентрон: его минусы, зачем он нужен и как его использовать.
+понял, для чего чего нужен tensolBoard, как им пользолваться,
+понял, как некоторые показатели влияют на обучаемость,
+
 
 ## Powered by
 
