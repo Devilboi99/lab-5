@@ -32,9 +32,9 @@
 ## цель работы 
 создать симуляцию добычи руды, и изминение экономики за счёт MLAgent и последующей проверкой через TensorBoard
 # Задание 1.
-
-- Интеграция экономической системы в проект Unity и обучение ML-Agent и использование tensorboard для анализа данных!
+Запуск MLAGent
 ![DQYk3ea8Z7sn7yYhWcd--n_NzMmKEWW5SLbVsvZFTSwbTUWOrUY4hu7hBtcNo8grvBe_uvXj8JnVYDhhx4WPos_a](https://user-images.githubusercontent.com/96059564/205012773-7b75758c-412c-4cb6-aac4-590eaf011c58.jpg)
+полученные данные в tensorBoard
 ![O1bBzVv6xsxv4Bt4COeg2sSZMI0HiJpE_Rus5VurXCWRbJTUD6Z7ezbgIAvZeYyMU0sgGedrfVQjDm4pTbRgHXJ1](https://user-images.githubusercontent.com/96059564/205012884-a3f2229c-d198-4c79-8972-fafb75271755.jpg)
 ![7Y5CWGRZscqrtaQb3JpYbE_z0sHmPjgq0PSORU1rWzPURtJqdoetuP7a_kKnCt1zqF822Mg-dXbMOvBg8bhPGWLm](https://user-images.githubusercontent.com/96059564/205012943-83b19127-877f-44de-a517-b4df25519fec.jpg)
 
